@@ -15,7 +15,7 @@ public class Primitivos {
         System.out.println("Valor máximo *float* es: " + Float.MAX_VALUE);
         System.out.println("Valor máximo *double* es: " + Double.MAX_VALUE);
 
-        //No podemos asIgnar variables sin valor dnetro del método main, sí en la clase corespondiente
+        //No podemos asIgnar variables sin valor dnetro del método main, sí en la clase correspondiente
         System.out.println(doubleReal);
 
         //CHAR: tiene que ser con comillas simples

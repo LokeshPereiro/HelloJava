@@ -20,7 +20,7 @@ public class CastingStringToPrimitivos {
         /* Primitivos en String */
         int numRandom = 88;
         //Hay dos formas de hacerlo
-        //Con la clase Wrapper String con el método correspondiente
+        //Con la clase Wrapper String y con el método correspondiente
         String numStr = Integer.toString(numRandom);
         System.out.println(numStr);
 

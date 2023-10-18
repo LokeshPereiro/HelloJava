@@ -6,6 +6,7 @@ public static void main(String[] args) {
         String saludar = "Hola mi gente, mi nombre es Lokesh Pereiro";
 
         System.out.println(saludar);
+
         System.out.println("saludar.toUpperCase() = " + saludar.toUpperCase());
 
         /*
