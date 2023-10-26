@@ -11,8 +11,8 @@ public class ArrOdenPrincipioFinal {
         for(int i = 0; i < numeros.length - i; i++){
             //System.out.print(numeros[i] + " ");
             //System.out.println(numeros[numeros.length - 1 -i]);
-            nuevoArr[temp++] = numeros[i];
             nuevoArr[temp++] = numeros[numeros.length - 1 -i];
+            nuevoArr[temp++] = numeros[i];
         }
         for(int i = 0; i < nuevoArr.length; i++){
            // System.out.println("i = " + i);
